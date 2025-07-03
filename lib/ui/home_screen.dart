@@ -72,7 +72,7 @@ class _HomeScreenState extends State<HomeScreen> {
 
     return Scaffold(
       appBar: AppBar(
-        title: const Text('Pembaca Saldo E-Money'),
+        title: const Text('Pembaca Saldo E-Moneeeeeeeee'),
       ),
       body: Center(
         child: Padding(
