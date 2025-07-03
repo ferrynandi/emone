@@ -4,7 +4,6 @@ A new Flutter project.
 
 use nfc  manager 3.5.0
 
-
 still unable to get nfc tag
 
 ## Getting Started
